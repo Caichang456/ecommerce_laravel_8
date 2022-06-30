@@ -1,0 +1,1 @@
+<input type="number" name="{{$name}}" value="{{$value}}" class="form-control" min="{{$min}}">
